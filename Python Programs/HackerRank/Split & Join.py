@@ -1,9 +1,9 @@
 '''
 You are given a string. Split the string on a " " (space)
 delimiter and join using a - hyphen.
->>> a = this is a string
->>> a = a.split( ) # a is converted to a list of strings.
->>> print a
+#>>> a = this is a string
+#>>> a = a.split( ) # a is converted to a list of strings.
+#>>> print a
 ['this', 'is', 'a', 'string']
 '''
 
